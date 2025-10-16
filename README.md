@@ -328,5 +328,7 @@ GROUP BY job_title
 ORDER BY avg_days_to_deadline DESC;
 ```
 ## Dashboard Visualizations
-Tableau Public: https://public.tableau.com/views/Global-AI-Job-Market-Analysis-v2/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-## Findings and Conclusion
+The dashboard provides an overview of the global AI job market, integrating insights from multiple analytical dimensions including geography, salary, job trends, and skill requirements.  
+**Tableau Public:** https://public.tableau.com/views/Global-AI-Job-Market-Analysis-v2/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Conclusion
+This analysis, based on a synthetic dataset, provides a comprehensive overview of global AI-related employment, revealing salary patterns, talent profiles, and temporal job dynamics. The findings offer insights for career planning, workforce development, strategic organizational decisions, and inform job seekers about market trends and job requirements.
