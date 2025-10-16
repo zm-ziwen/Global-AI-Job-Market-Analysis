@@ -328,4 +328,5 @@ GROUP BY job_title
 ORDER BY avg_days_to_deadline DESC;
 ```
 ## Dashboard Visualizations
+Tableau Public: https://public.tableau.com/views/Global-AI-Job-Market-Analysis-v2/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Findings and Conclusion
